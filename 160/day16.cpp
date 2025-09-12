@@ -1,3 +1,5 @@
+#include<string>
+using std::string;
 class Solution {
   public:
     bool areAnagrams(string& s1, string& s2) {
